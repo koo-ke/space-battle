@@ -1,4 +1,7 @@
-# Space Battle
+# play
+https://koo-ke.github.io/space-battle/
+
+# Space Batt
 
 宇宙船を操作してエイリアンを避けるレトロ風アクションゲーム
 
